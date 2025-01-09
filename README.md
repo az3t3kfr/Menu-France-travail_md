@@ -1,4 +1,9 @@
-# esx_jobcentre
+Discord : https://discord.gg/45b6wZUQJB
+
+<img src="https://imgur.com/JL0FNVc">
+
+Site : https://www.multideveloppement.fr/
+
 --INFO-- FR
 
 
@@ -62,13 +67,7 @@ I suggest open in Visual Studio Code to see the colour and what you can change i
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Discord : https://discord.gg/45b6wZUQJB
 
-<img src="https://imgur.com/JL0FNVc">
-
-
-
-Site : https://www.multideveloppement.fr/
 
 
 
